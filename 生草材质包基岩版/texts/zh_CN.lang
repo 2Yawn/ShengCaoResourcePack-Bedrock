@@ -1,0 +1,41 @@
+## Comments can be added anywhere on a valid line by starting with '##'
+## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
+## comment on the same line, use TABs.
+
+## Custom strings
+tips.game.63=由SwiftTheGamer制作！	#
+
+## v0.2
+item.iron_ingot.name=老铁
+tile.iron_block.name=老铁块
+item.dye.white.name=金坷垃
+item.bone.name=奥利给
+tile.bone_block.name=奥利给块
+item.chicken.name=鸭屁股
+item.cooked_chicken.name=扒鸭屁股
+item.minecart.name=专业团队
+item.carrot.name=胡萝贝
+tile.carrots.name=胡萝贝
+tile.warped_fungus.name=蓝瘦香菇
+item.bucket.name=贴吧老铁
+item.bucketLava.name=老祖安
+item.bucketWater.name=大水比
+item.milk.name=拱坝老哥狂喜！
+trade.level.1=弱子
+trade.level.2=兄♂贵
+trade.level.3=基♂佬
+trade.level.4=带哲♂人
+trade.level.5=Ma♂ster
+trade.trade=PY交♂易
+
+
+## 之后可能会用上的
+
+
+
+## 失效的
+## deathScreen.message=WASTED
+## deathScreen.title=WASTED
+## createWorldScreen.create=开始生草
+## difficulty.lock.question=Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again.
+## difficulty.lock.title=Lock World Difficulty
