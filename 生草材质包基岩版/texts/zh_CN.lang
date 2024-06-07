@@ -28,8 +28,71 @@ trade.level.4=带哲♂人
 trade.level.5=Ma♂ster
 trade.trade=PY交♂易
 
+## v1.1
+tile.unlit_redstone_torch.name=雷石东火把
+tile.redstone_torch.name=雷石东火把
+tile.redstone_ore.name=雷石东矿
+tile.redstone_lamp.name=雷石东灯
+tile.redstone_block.name=雷石东块
+tile.redstone_wire.name=雷石东
+item.redstone.name=雷石东
+item.repeater.name=雷石东直放站
+item.comparator.name=雷石东比较器
+tile.furnace.name=龙炉
+container.furnace=龙炉
+furnaceScreen.header=龙炉
+entity.command_block_minecart.name=带有命令方块的《我的世界》
+tile.stone_slab4.mossy_stone_brick.name=生草石砖台阶
+tile.mossy_stone_brick_stairs.name=生草石砖阶梯
+tile.stonebrick.mossy.name=生草石砖
+tile.cobblestone_wall.mossy_stone_brick.name=生草石砖墙
+item.rabbit_stew.name=老八秘制兔肉煲
+item.iron_shovel.name=戴佳伟
+tile.reeds.name=韭菜
+item.reeds.name=韭菜
+entity.witch.name=巫仁吉
+item.spawn_egg.entity.witch.name=巫仁吉生怪蛋
+entity.piglin_brute.name=猪一旦
+item.spawn_egg.entity.piglin_brute.name=猪一旦生怪蛋
+item.turtle_helmet.name=绿帽
+tile.gravel.name=砬石
+item.diamond_shovel.name=钻卡戴佳伟
+item.golden_shovel.name=金色戴佳伟
+item.netherite_shovel.name=戴佳伟（已腐蚀）
+tile.bed.occupied=我劝这位年轻人 不要搞窝里斗
+tile.bed.obstructed=你老婆被挡住了
+item.wooden_axe.name=幕府
+tile.dirt.default.name=土块
+tile.dirt.name=土块
+item.fermented_spider_eye.name=微妙的菜肴
+tile.lever.name=幸运杆杆
+item.leather_boots.name=金猴皮鞋
+enchantment.lootBonusDigger=超级加倍
+entity.egg.name=篮球
+item.egg.name=篮球
+tile.sandstone.chiseled.name=沙雕块
+item.gold_nugget.name=金立
+item.suspicious_stew.name=蜜汁炖菜
+potion.wither=核辐射
+entity.wither.name=孫咲氚
+entity.wither_skeleton.name=孙笑川
+entity.wither_skull.name=司马脸
+entity.wither_skull_dangerous.name=司马脸
+item.skull.wither.name=司马脸
+item.spawn_egg.entity.wither_skeleton.name=孙笑川生怪蛋
+item.spawn_egg.entity.wither.name=孫咲氚生怪蛋
+item.netherStar.name=氚
+tile.wither_rose.name=家乡のsakura
+tile.beacon.name=核电站
+container.beacon=核电站
+
 
 ## 之后可能会用上的
+## tile.deepslate_redstone_ore.name=Deepslate Redstone Ore
+## tile.suspicious_gravel.name=Suspicious Gravel
+## entity.furnace_minecart.name=Minecart with Furnace
+## item.minecartFurnace.name=Minecart with Furnace
+
 
 
 
