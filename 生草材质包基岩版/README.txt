@@ -5,8 +5,8 @@
 https://github.com/2Yawn/ShengCaoResourcePack/releases
 若无法链接Github则可以去找下方视频链接的置顶评论里有各种网盘链接
 ======================================================
-生草材质包 v1.0 by SwiftTheGamer (MCJE国际服ID：Swift_The_Gamer)
-兼容于 Minecraft Bedrock Edition 1.20.80 
+生草材质包 v1.3.1.1 by SwiftTheGamer (MCJE国际服ID：Swift_The_Gamer)
+兼容于 Minecraft Bedrock Edition 1.20.80
 我的B站：https://space.bilibili.com/509780342
 可以随意使用，当然放一下链接更好，有事的话可以B站私信
 附视频链接：
@@ -28,6 +28,7 @@ Q:有关只希望导入部分材质/音效
 A:拆包自己研究一下吧，总之解压之后把不想要的东西删掉就好
 比如如果觉得声音太吵就把/sounds文件夹删掉
 当然主目录的manifest.json pack_icon.png这类的别删就行
+如果说想要同时保留两个材质包可能还要换一下manifest.json里面的UUID
 
 Q:有关使用/二创
 A:如果是根据这个材质包改动发布（加梗之类的）请保留这个txt。 如果只是来拍视频之类的那不会有太多要求的
@@ -50,7 +51,7 @@ To do list
 *追至1.3.1.17
 *先材质 已完成
 *再翻译 已完成
-*最后声音
+*最后声音 已完成
 ======================================================
 BUG List
 BUG1: 桶 黑边 v0.1.2.6 fixed
@@ -65,8 +66,25 @@ BUG5：鸡需要改模型 v1.0.1.1 fixed
 BUG6: 狼需要改模型 v1.0.1.1 fixed
 BUG7: 普通潜影贝材质不生效 v1.0.1.1 fixed
 BUG8: 凋零护甲全为白色 v1.0.3 3 fixed?
+BUG9：末影箱关掉声音无效 v1.2.0.1 fixed
+BUG10：樱花/竹制门/地狱木材和活版门声音无效 v1.3.1.1 fixed
 ======================================================
 意义不明的 Changelog
+v1.3.1.1 26/6/10 
+*BUG10 修复竹制地板门音效错误
+v1.3.1 26/6/10
+*增加全部 樱花/竹制/地狱木材 的 门/栅栏门/活版门 音效
+v1.3.0.1 26/6/10
+*改一下customsounds文件夹的位置
+v1.3.0 26/6/10
+*设置sound_definitions.json 以及customsounds文件夹
+*添加樱花栅栏门声音（测试）
+v1.2.0.1 26/6/10
+*BUG9 修复末影箱关掉声音
+v1.2.0 26/6/7
+*开关（箱子，末影箱，木门铁门，栅栏门，木/铁活版门，桶，界伏箱/蚌）
+鸡（say,hurt）凋零（death,hurt,idle,shoot,spawn）
+音符盒：沙子-snare(更衣柜） 石头-basedrum/bd（尻鼓） 普通-harp（fa) 粘土块-flute(woo)声音
 v1.1.1 26/6/7
 *注释掉不需要的翻译
 *淡灰色染色玻璃板翻译移除（基岩版能看到很明显）
