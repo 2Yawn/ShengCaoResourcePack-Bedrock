@@ -86,6 +86,16 @@ tile.wither_rose.name=家乡のsakura
 tile.beacon.name=核电站
 container.beacon=核电站
 
+## v1.4
+entity.painting.name=厕纸
+item.painting.name=厕纸
+tile.dark_oak_trapdoor.name=巧克力
+item.spyglass.name=望远烬
+tile.lodestone.name=吸铁石
+tile.melon_block.name=生瓜蛋子
+tile.mossy_cobblestone_stairs.name=生草石阶梯
+tile.stone_slab2.mossy_cobblestone.name=生草石台阶
+tile.mossy_cobblestone.name=生草石
 
 ## 之后可能会用上的
 ## tile.deepslate_redstone_ore.name=Deepslate Redstone Ore
