@@ -42,6 +42,7 @@ tile.furnace.name=龙炉
 container.furnace=龙炉
 furnaceScreen.header=龙炉
 entity.command_block_minecart.name=带有命令方块的《我的世界》
+item.command_block_minecart.name=带有命令方块的《我的世界》
 tile.stone_slab4.mossy_stone_brick.name=生草石砖台阶
 tile.mossy_stone_brick_stairs.name=生草石砖阶梯
 tile.stonebrick.mossy.name=生草石砖
